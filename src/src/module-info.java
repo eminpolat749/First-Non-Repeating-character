@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author emin
- *
- */
-module Sample {
-}
